@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in JavaScript related to loose comparison using the == operator.  The bug.js file contains the erroneous code, while bugSolution.js offers a corrected version using strict comparison (===).  Loose comparison can lead to unexpected behavior due to type coercion, which is avoided with strict comparison.
